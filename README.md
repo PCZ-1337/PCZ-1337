@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCZ-1337&show_icons=true&theme=dark)
+
 <h1 align="center">hi Im PCZ
  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PCZ-1337" alt="PCZ-1337" /> </p>
@@ -7,7 +9,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PCZ-1337&theme=nord&margin-w=15&margin-h=15&column=7" />
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCZ-1337&show_icons=true&theme=dark)
+
 
 <!--
 **PCZ-1337/PCZ-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
